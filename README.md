@@ -3,6 +3,13 @@
 
 This is a web page that provides an audio player with a play/pause button to listen to cyber security issue reports from McDonald's restaurants. The page is designed to be responsive and uses WaveSurfer.js to create an interactive audio visualization.
 
+### Demo Page
+
+You can access the demo page for this project by visiting the following link:
+
+[**Demo Page: McDonald's Restaurant Reports Cyber Security Issues**](https://brutebee.github.io/TotheNews/)
+
+The demo page allows you to experience the audio player in action and visualize the audio waveform.
 ### Features
 
 - Audio Player: The page includes an audio player that allows users to play and pause an audio file containing the cyber security issue reports from McDonald's restaurants.
