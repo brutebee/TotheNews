@@ -1,5 +1,3 @@
-Sure! I've added the special thanks to Artificial Intelligence from ElevenLabs for the voices created and to Pixabay for the audio effects in the README:
-
 ## McDonald's Restaurant Reports Cyber Security Issues (JOKE!)
 
 This is a web page that provides an audio player with a play/pause button to listen to cyber security issue reports from McDonald's restaurants. The page is designed to be responsive and uses WaveSurfer.js to create an interactive audio visualization.
