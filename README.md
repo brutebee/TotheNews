@@ -31,6 +31,7 @@ Back to you, Rachel!
 
 - **Pixabay**: Special thanks to Pixabay for providing high-quality angry crowd audio effects that enhance the overall experience of the audio player. The captivating audio effects add depth and immersion to the content.
 
+- **OpenAI**: Special thanks to OpenAI for providing ChatGPT, ChatGPT designed this README file! Of Course! 
 ### Features
 
 - Audio Player: The page includes an audio player that allows users to play and pause an audio file containing the cyber security issue reports from McDonald's restaurants.
